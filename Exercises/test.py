@@ -1,4 +1,3 @@
-list_mul = ['2','2','2']
-result = list_mul*2
-
-print(result)
+import pandas as pd
+score = [10, 15, 20, 25]
+print(pd.Series(data=score, index = ['a','b','c','d']))
