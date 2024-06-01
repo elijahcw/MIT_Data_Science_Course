@@ -6,3 +6,4 @@ ipython
 IPyKernel
 jupyter
 scikit-learn
+scipy
