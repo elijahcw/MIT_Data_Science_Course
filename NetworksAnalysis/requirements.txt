@@ -10,3 +10,5 @@ scipy
 networkx
 bs4
 pandas_datareader
+tqdm
+plotly
