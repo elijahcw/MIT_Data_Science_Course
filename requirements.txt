@@ -5,7 +5,7 @@ seaborn
 ipython
 IPyKernel
 jupyter
-scikit-learn
+scikit-learn==1.2.2
 scipy
 networkx
 bs4
@@ -13,3 +13,5 @@ pandas_datareader
 tqdm
 plotly
 statsmodels
+scikeras
+tensorflow
