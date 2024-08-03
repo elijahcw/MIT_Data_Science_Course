@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipython
+IPyKernel
+jupyter
+scikit-learn
+scipy
+networkx
+bs4
+pandas_datareader
+tqdm
+plotly
+statsmodels
+xgboost
